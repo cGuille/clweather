@@ -10,7 +10,7 @@
     "start": "node clweather.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "https://github.com/cGuille/clweather",
   "keywords": [
     "wheather",
     "cli",
